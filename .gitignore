@@ -1,0 +1,13 @@
+*.pyc
+*.log
+*.json
+*.yaml
+*.wandb
+*.pth
+experiments/*
+# config/*
+*.txt
+*.png
+web_results/*
+*.html
+demo.py
